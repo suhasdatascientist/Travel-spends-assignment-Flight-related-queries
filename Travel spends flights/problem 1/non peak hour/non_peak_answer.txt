@@ -1,0 +1,4 @@
+from the given data i have seen there were two airline names, AI and 9W
+
+
+during non peak hour , we don't have much data for the flight AI, after plotting the different graphs, I seen AI Airline fare is cheaper when compared to 9W, i have considered the time apart from 7 AM to 10 AM as non peak hour

@@ -1,0 +1,4 @@
+from the given data i have seen there were two airline names, AI and 9W
+
+
+during peak hour , we don't have much data for the flight AI, after plotting the different graphs, we have seen AI is cheaper when compared to 9W

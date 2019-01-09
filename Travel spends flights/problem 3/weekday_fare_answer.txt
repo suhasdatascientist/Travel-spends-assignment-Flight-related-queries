@@ -1,0 +1,1 @@
+after plotting simple bar graph , i have observed that Friday fare are costlier than any other day  for the given data, 

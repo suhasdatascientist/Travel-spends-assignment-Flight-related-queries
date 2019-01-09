@@ -1,0 +1,3 @@
+i considered  advance booking trends for 7 days, this starts from Monday to Saturday, I don't see much variations in Fare from Monday to Tuesday, and from Tuesday to Wednesday , there is 1% variations in Ticket Fare, and from Wednesday to Thursday there is 5% variance and finally from Thursday till Friday or Saturday the ticket fare variance will be the same of 4%. 
+
+Conclusion: The ticket variance at Monday and on Saturday will be the double, like fare increases double in 9W airline when I observed before Travel date.
